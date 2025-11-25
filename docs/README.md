@@ -53,9 +53,10 @@ zybo_rv_cpu/
     mini_assembler.py
   vivado/
     top_zx7.v
-    zybo_z7_example.xdc
   docs/
     README.md   <-- This file
+    Zybo-Z7-Master.xdc
+    iVerilog
 ```
 
 ---
@@ -224,6 +225,7 @@ vvp sim_pipe
    ```
 7. Generate Bitstream  
 8. Program FPGA  
+
 
 
 

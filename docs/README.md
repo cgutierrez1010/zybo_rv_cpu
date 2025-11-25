@@ -68,7 +68,7 @@ The project will contain two CPU variants. Both share the ALU, register file, an
 
 # 3. Single-Cycle CPU Overview
 
-## Block Diagram
+## Textbook Block Diagram
 
 ```
           +-------------------------------+
@@ -96,7 +96,7 @@ The project will contain two CPU variants. Both share the ALU, register file, an
 
 ## Description
 
-- All datapath operations execute in a single clock cycle.
+- All operations execute in a single clock cycle.
 - No hazards, no pipeline registers.
 - Simpler to debug but lower maximum frequency.
 
@@ -223,4 +223,5 @@ vvp sim_pipe
    ```
 6. Generate Bitstream  
 7. Program FPGA  
+
 

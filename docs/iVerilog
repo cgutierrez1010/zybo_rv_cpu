@@ -1,0 +1,36 @@
+NOT MY WORK OR PROGRAM
+
+https://bleyer.org/icarus/
+
+Icarus Verilog for Windows
+Icarus Verilog is a free compiler implementation for the IEEE-1364 Verilog hardware description language. Icarus is maintained by Stephen Williams and it is released under the GNU GPL license.
+
+In this page you will find easy to install Icarus Verilog packages compiled with the MinGW toolchain for the Windows environment. GTKWave for Win32 is also included in the latest releases. The installers have been created with Jordan Rusell's Inno Setup free installer utility.
+
+Download
+You can find Icarus Verilog sources and binaries for most platforms at the Icarus site FTP. The sources available here have been compressed with 7-zip.
+
+
+iverilog-v12-20220611-x64_setup [18.2MB]
+iverilog-v11-20210204-x64_setup.exe [44.1MB]
+iverilog-v11-20201123-x64_setup.exe [18.1MB]
+iverilog-10.1.1-x64_setup.exe [9.77MB]
+iverilog-10.0-x86_setup.exe [11.1MB]
+iverilog-20130827_setup.exe (development snapshot) [11.2MB]
+iverilog-0.9.7_setup.exe (latest stable release) [10.5MB]
+iverilog-0.9.6_setup.exe [10.4MB]
+iverilog-0.8.6_setup.exe (latest release 0.8 series) [1.29MB] iverilog-0.8.6.7z [800kB]
+iverilog-0.7-20040706_setup.exe [1.09MB] iverilog-0.7-20040706.7z [588kB]
+Resources
+Here are some pointers to interesting Verilog related resources.
+
+Verilog Resources
+GTKWave Electronic Waveform Viewer
+GTKWave for Windows
+IVI, a graphical frontend for Icarus
+Eclipse Verilog Editor
+Verilog syntax highlighting for UltraEdit.
+Copyright
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.

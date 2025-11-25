@@ -206,22 +206,24 @@ vvp sim_pipe
 
 # 7. FPGA Build Instructions (Vivado)
 
-1. Open Vivado  
-2. Create a new Zynq-7000 project  
-3. Add RTL sources from:
+1. Install Vivado (if you dont have it)
+2. Open Vivado  
+3. Create a new Zynq-7000 project (Model XC7Z020-1CLG400C) 
+4. Add RTL sources from:
    ```
    hdl/single_cycle/      OR
    hdl/pipeline/
    ```
-4. Add top-level FPGA wrapper:
+5. Add top-level FPGA wrapper:
    ```
    vivado/top_zx7.v
    ```
-5. Add Zybo constraints:
+6. Add Zybo constraints:
    ```
    vivado/zybo_z7_example.xdc
    ```
-6. Generate Bitstream  
-7. Program FPGA  
+7. Generate Bitstream  
+8. Program FPGA  
+
 
 

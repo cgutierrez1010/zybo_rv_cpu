@@ -54,7 +54,7 @@ zybo_rv_cpu/
   vivado/
     top_zx7.v
   docs/
-    README.md   <-- This file
+    README.md
     Zybo-Z7-Master.xdc
     iVerilog
 ```
@@ -225,6 +225,7 @@ vvp sim_pipe
    ```
 7. Generate Bitstream  
 8. Program FPGA  
+
 
 
 
